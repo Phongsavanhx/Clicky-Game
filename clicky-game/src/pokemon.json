@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "pikachu.jpg"
+    },
+    {
+      "id": 2,
+      "image": "charmander.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "cyndaquil.jpg"
+    },
+    {
+      "id": 4,
+      "image": "clefairy.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "duskull.jpg"
+    },
+    {
+      "id": 6,
+      "image": "Eevee.jpg"
+    },
+    {
+      "id": 7,
+      "image": "mudkip.jpg"
+    },
+    {
+      "id": 8,
+      "image": "oshawott.jpg"
+    },
+    {
+      "id": 9,
+      "image": "mareep.jpg"
+    },
+    {
+      "id": 10,
+      "image": "meltan.jpg"
+    },
+    {
+      "id": 11,
+      "image": "piplup.jpg"
+    },
+    {
+      "id": 12,
+      "image": "squirtle.jpg"
+    }
+  ]
+  
